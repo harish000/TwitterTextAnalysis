@@ -1,0 +1,13 @@
+base
+knitr
+maps
+ggplot2
+quanteda
+topicmodels
+Rstem
+NLP
+tm
+stringr
+plotly
+LDAvis
+jsonlite
